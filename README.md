@@ -3,7 +3,7 @@
   <h1>🛡️ Hi there! I'm Sreeja Maity</h1>
 </div>
 
-**Aspiring Software Developer | Open Source Contributor**
+**Aspiring Software Developer | Problem Solver | Open Source Contributor**
 
 ---
 
